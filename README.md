@@ -244,7 +244,7 @@ Para dúvidas ou sugestões, abra uma **Issue** no repositório ou entre em cont
 
 Assista ao vídeo pitch de 4 minutos que demonstra o funcionamento completo do sistema, explicando os conceitos técnicos e os benefícios da UNLOGIC Fábrica Espacial:
 
-**[Assistir ao Vídeo Pitch](https://www.canva.com/design/DAG4ziO1OHE/o13N0p8rGphVrs8JnDW6NA/watch)**
+**[Assistir ao Video Pitch](https://youtu.be/ZkFrZp7ffLs)**
 
 No vídeo você encontrará:
 - Introdução ao sistema de controle de qualidade industrial
