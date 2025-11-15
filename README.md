@@ -240,4 +240,19 @@ UniFECAF, 2025. Disponível em: https://github.com/alexslama/TRABALHO
 
 Para dúvidas ou sugestões, abra uma **Issue** no repositório ou entre em contato através da página do projeto no GitHub.
 
+## 🎬 Vídeo Pitch - Demonstração do Sistema
+
+Assista ao vídeo pitch de 4 minutos que demonstra o funcionamento completo do sistema, explicando os conceitos técnicos e os benefícios da UNLOGIC Fábrica Espacial:
+
+**[Assistir ao Vídeo Pitch](https://www.canva.com/design/DAG4ziO1OHE/o13N0p8rGphVrs8JnDW6NA/watch)**
+
+No vídeo você encontrará:
+- Introdução ao sistema de controle de qualidade industrial
+- Demonstração completa do menu e suas funcionalidades
+- Explicação dos conceitos técnicos aplicados (decisão, modularidade, estruturas de dados, iteração)
+- Benefícios da automatização: rastreabilidade, conformidade e escalabilidade
+- Visão futura com IoT, Machine Learning, e API REST
+
+---
+
 **Que a Força do Código esteja com você! 🚀**
